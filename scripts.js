@@ -22,7 +22,7 @@ const jobStatusText = document.getElementById('jobStatusText');
 
 
 
-
+// Count all calculate Job - Interview - Reject 
 function calculateCount(){
     total.innerText = allCardSection.children.length;
     jobTotal.innerText = allCardSection.children.length;
